@@ -2,7 +2,7 @@
 
 /**
  * Created by PhpStorm.
- * User: artem
+ * User: Kailex
  * Date: 22.05.17
  * Time: 21:46
  */
